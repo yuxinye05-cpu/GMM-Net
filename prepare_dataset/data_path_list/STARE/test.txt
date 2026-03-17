@@ -1,0 +1,6 @@
+Datasets/STARE/test/images/01_test.tiff Datasets/STARE/test/1st_manual/01_manual1.gif Datasets/STARE/test/mask/01_test_mask.gif
+Datasets/STARE/test/images/02_test.tiff Datasets/STARE/test/1st_manual/02_manual1.gif Datasets/STARE/test/mask/02_test_mask.gif
+Datasets/STARE/test/images/03_test.tiff Datasets/STARE/test/1st_manual/03_manual1.gif Datasets/STARE/test/mask/03_test_mask.gif
+Datasets/STARE/test/images/04_test.tiff Datasets/STARE/test/1st_manual/04_manual1.gif Datasets/STARE/test/mask/04_test_mask.gif
+Datasets/STARE/test/images/05_test.tif Datasets/STARE/test/1st_manual/05_manual1.gif Datasets/STARE/test/mask/05_test_mask.gif
+Datasets/STARE/test/images/06_test.tiff Datasets/STARE/test/1st_manual/06_manual1.gif Datasets/STARE/test/mask/06_test_mask.gif

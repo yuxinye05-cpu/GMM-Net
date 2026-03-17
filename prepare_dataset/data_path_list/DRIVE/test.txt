@@ -1,0 +1,8 @@
+Datasets/DRIVE/test/images/01_test.tif Datasets/DRIVE/test/1st_manual/01_manual1.gif Datasets/DRIVE/test/mask/01_test_mask.gif
+Datasets/DRIVE/test/images/02_test.tif Datasets/DRIVE/test/1st_manual/02_manual1.gif Datasets/DRIVE/test/mask/02_test_mask.gif
+Datasets/DRIVE/test/images/03_test.tif Datasets/DRIVE/test/1st_manual/03_manual1.gif Datasets/DRIVE/test/mask/03_test_mask.gif
+Datasets/DRIVE/test/images/04_test.tif Datasets/DRIVE/test/1st_manual/04_manual1.gif Datasets/DRIVE/test/mask/04_test_mask.gif
+Datasets/DRIVE/test/images/05_test.tif Datasets/DRIVE/test/1st_manual/05_manual1.gif Datasets/DRIVE/test/mask/05_test_mask.gif
+Datasets/DRIVE/test/images/06_test.tif Datasets/DRIVE/test/1st_manual/06_manual1.gif Datasets/DRIVE/test/mask/06_test_mask.gif
+Datasets/DRIVE/test/images/07_test.tif Datasets/DRIVE/test/1st_manual/07_manual1.gif Datasets/DRIVE/test/mask/07_test_mask.gif
+Datasets/DRIVE/test/images/08_test.tif Datasets/DRIVE/test/1st_manual/08_manual1.gif Datasets/DRIVE/test/mask/08_test_mask.gif

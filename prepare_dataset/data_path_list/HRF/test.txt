@@ -1,0 +1,9 @@
+Datasets/HRF/test/images/13_dr.JPG Datasets/HRF/test/1st_manual/13_dr.tif Datasets/HRF/test/mask/13_dr_mask.tif
+Datasets/HRF/test/images/13_g.jpg Datasets/HRF/test/1st_manual/13_g.tif Datasets/HRF/test/mask/13_g_mask.tif
+Datasets/HRF/test/images/13_h.jpg Datasets/HRF/test/1st_manual/13_h.tif Datasets/HRF/test/mask/13_h_mask.tif
+Datasets/HRF/test/images/14_dr.JPG Datasets/HRF/test/1st_manual/14_dr.tif Datasets/HRF/test/mask/14_dr_mask.tif
+Datasets/HRF/test/images/14_g.jpg Datasets/HRF/test/1st_manual/14_g.tif Datasets/HRF/test/mask/14_g_mask.tif
+Datasets/HRF/test/images/14_h.jpg Datasets/HRF/test/1st_manual/14_h.tif Datasets/HRF/test/mask/14_h_mask.tif
+Datasets/HRF/test/images/15_dr.JPG Datasets/HRF/test/1st_manual/15_dr.tif Datasets/HRF/test/mask/15_dr_mask.tif
+Datasets/HRF/test/images/15_g.jpg Datasets/HRF/test/1st_manual/15_g.tif Datasets/HRF/test/mask/15_g_mask.tif
+Datasets/HRF/test/images/15_h.jpg Datasets/HRF/test/1st_manual/15_h.tif Datasets/HRF/test/mask/15_h_mask.tif

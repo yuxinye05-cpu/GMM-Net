@@ -1,0 +1,9 @@
+Datasets/CHASEDB1/test/images/01_test.tiff Datasets/CHASEDB1/test/1st_manual/01_manual1.gif Datasets/CHASEDB1/test/mask/01_test_mask.gif
+Datasets/CHASEDB1/test/images/02_test.tiff Datasets/CHASEDB1/test/1st_manual/02_manual1.gif Datasets/CHASEDB1/test/mask/02_test_mask.gif
+Datasets/CHASEDB1/test/images/03_test.tiff Datasets/CHASEDB1/test/1st_manual/03_manual1.gif Datasets/CHASEDB1/test/mask/03_test_mask.gif
+Datasets/CHASEDB1/test/images/04_test.tiff Datasets/CHASEDB1/test/1st_manual/04_manual1.gif Datasets/CHASEDB1/test/mask/04_test_mask.gif
+Datasets/CHASEDB1/test/images/05_test.tiff Datasets/CHASEDB1/test/1st_manual/05_manual1.gif Datasets/CHASEDB1/test/mask/05_test_mask.gif
+Datasets/CHASEDB1/test/images/06_test.tiff Datasets/CHASEDB1/test/1st_manual/06_manual1.gif Datasets/CHASEDB1/test/mask/03_test_mask.gif
+Datasets/CHASEDB1/test/images/07_test.tiff Datasets/CHASEDB1/test/1st_manual/07_manual1.gif Datasets/CHASEDB1/test/mask/04_test_mask.gif
+Datasets/CHASEDB1/test/images/08_test.tiff Datasets/CHASEDB1/test/1st_manual/08_manual1.gif Datasets/CHASEDB1/test/mask/05_test_mask.gif
+
